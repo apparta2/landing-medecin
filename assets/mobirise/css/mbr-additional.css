@@ -1541,6 +1541,20 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-rSaFCAPGcH {
+  background: #ffffff;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: linear-gradient(45deg, #ffffff, #002531);
+}
+.cid-rSaFCAPGcH .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rSaFCAPGcH .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rPCjG69fNO {
   padding-top: 60px;
   padding-bottom: 60px;
